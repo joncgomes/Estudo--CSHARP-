@@ -5,10 +5,10 @@ Esse repositório, contém todas as codificações realizadas e desenvolvidas po
 
 ## Learning
 
-• Lógica de Programação;
-• Estrutura Condicional;
-• Estrutura de Repetição (For e While);
-• Funções;
+• Lógica de Programação; <br>
+• Estrutura Condicional; <br>
+• Estrutura de Repetição (For e While);<br>
+• Funções;<br>
 • Manipulação de Strings.
 
 ## 🚀 Technologies Used 
